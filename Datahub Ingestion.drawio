@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T13:06:26.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="XyHfztnVknKMbXfBsBYL" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T13:08:16.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="rWq1ANkjWf3qqoipa0jk" version="14.9.2" type="github">
   <diagram id="6eVxhd2TRdLCq7R75qMY" name="Page-1">
     <mxGraphModel dx="1234" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3BJ8GWjitMkYbj-D_fS-85" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_network_interface;fillColor=#F58536;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="m3BJ8GWjitMkYbj-D_fS-85" value="AWS ENI" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_network_interface;fillColor=#F58536;gradientColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="380" y="97" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
