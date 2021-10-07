@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T07:19:06.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="EKKtWEmoCQB-m_6bxZT_" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T07:23:54.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="4hHBIVcLy1opLjGqxwzp" version="15.4.3" type="github">
   <diagram id="H-FVpUiSTPM4Va0HzyG1" name="Page-1">
     <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,10 +62,10 @@
           <mxGeometry x="26" y="26" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-16" value="INGESTION" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-10" width="130" height="430" as="geometry" />
+          <mxGeometry x="123" y="-10" width="130" height="430" as="geometry" />
         </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-17" value="DATA LAKE" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#5A6C86;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-10" width="980" height="430" as="geometry" />
+          <mxGeometry x="330" y="-10" width="730" height="520" as="geometry" />
         </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-18" value="PROCESSING WITH AWS GLUE" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#5A6C86;" vertex="1" parent="1">
           <mxGeometry x="430" y="40" width="600" height="150" as="geometry" />
@@ -73,15 +73,29 @@
         <mxCell id="GoqarWJMvIRxIr3ExFKV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-19" target="GoqarWJMvIRxIr3ExFKV-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="566" y="105" />
+              <mxPoint x="560" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-19" value="&lt;b&gt;ETL - Resolve&lt;br&gt;Staging Data&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" vertex="1" parent="1">
           <mxGeometry x="450" y="66" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-20" target="GoqarWJMvIRxIr3ExFKV-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-20" value="&lt;b&gt;ETL&lt;br&gt;Cleaning / Deduplication&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" vertex="1" parent="1">
           <mxGeometry x="612" y="66" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-21" target="GoqarWJMvIRxIr3ExFKV-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="105" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-21" value="&lt;b&gt;ETL&lt;br&gt;Transform&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" vertex="1" parent="1">
           <mxGeometry x="772" y="66" width="78" height="78" as="geometry" />
@@ -102,14 +116,44 @@
         <mxCell id="GoqarWJMvIRxIr3ExFKV-27" value="&lt;b&gt;Raw Zone&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
           <mxGeometry x="375" y="256" width="75" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-28" target="GoqarWJMvIRxIr3ExFKV-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-28" value="&lt;b&gt;Staging Zone&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
           <mxGeometry x="528" y="256" width="75" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="GoqarWJMvIRxIr3ExFKV-29" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="256" width="75" height="78" as="geometry" />
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-29" target="GoqarWJMvIRxIr3ExFKV-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="105" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="GoqarWJMvIRxIr3ExFKV-30" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
-          <mxGeometry x="855" y="256" width="75" height="78" as="geometry" />
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-29" value="&lt;b&gt;Master Zone&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
+          <mxGeometry x="696.5" y="256" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-30" target="GoqarWJMvIRxIr3ExFKV-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-30" value="&lt;b&gt;Conform Zone&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
+          <mxGeometry x="858" y="256" width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoqarWJMvIRxIr3ExFKV-39" target="GoqarWJMvIRxIr3ExFKV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-39" value="&lt;b&gt;Audit ETL&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" vertex="1" parent="1">
+          <mxGeometry x="691" y="420" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="GoqarWJMvIRxIr3ExFKV-41" value="&lt;b&gt;Audit Bucket&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
+          <mxGeometry x="858" y="420" width="75" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
