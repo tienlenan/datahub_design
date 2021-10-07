@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T08:18:31.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="jlVzBbOEefixujIf1Qw9" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T08:19:42.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="5PLQBU9dbjJhve_5jEhO" version="15.4.3" type="github">
   <diagram id="H-FVpUiSTPM4Va0HzyG1" name="Page-1">
-    <mxGraphModel dx="1831" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5590" dy="3747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jx55laV_0cBN-u7AzkEs-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="710" width="1275" height="790" as="geometry" />
+          <mxGeometry y="-300" width="1660" height="940" as="geometry" />
         </mxCell>
         <mxCell id="GoqarWJMvIRxIr3ExFKV-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="-220" width="480" height="130" as="geometry" />
