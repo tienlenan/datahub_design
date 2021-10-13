@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T09:18:20.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="dw2XpiIwyr3DkK00PJzR" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T09:18:42.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="JkLJ8_lvdGLok8rc8jTE" version="15.5.2" type="github">
   <diagram id="xUoj9RPcD3D4wsji0dsL" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,9 +100,6 @@
           <mxGeometry x="0.0528" y="2" relative="1" as="geometry">
             <mxPoint x="-21" y="19" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nxgp4-7IpZYQWayNXJpq-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/top-search-7/128/_refresh_load_loading_sync_arrow_reload_restart-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="386" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nxgp4-7IpZYQWayNXJpq-36" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="772" y="416" width="111.63999999999999" height="124" as="geometry" />
