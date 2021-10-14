@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T09:03:35.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47" etag="zgFWbzW5uyL2PC62uqHW" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T09:06:47.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47" etag="-1aYUvjvT5QfOg2_2Z1o" version="15.5.2" type="github">
   <diagram id="xUoj9RPcD3D4wsji0dsL" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,9 +154,6 @@
         </mxCell>
         <mxCell id="Hpj1vyFHXg1Dc-uJ7HYS-1" value="Scheduled Event&lt;br&gt;&lt;b&gt;Time-based&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF4F8B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.event_time_based;" vertex="1" parent="1">
           <mxGeometry x="42.299999999999976" y="440" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="Hpj1vyFHXg1Dc-uJ7HYS-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="166.38" y="100" width="47.25" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
