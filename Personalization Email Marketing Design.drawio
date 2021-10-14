@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T03:43:21.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47" etag="N9jZ7NKOKF6SFh0io-tp" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T03:43:36.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47" etag="VuDrW1EVObQK_QAsibGQ" version="15.5.2" type="github">
   <diagram id="z-CwobHcTqejdmUt2V45" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,17 +108,11 @@
         <mxCell id="lEBB3PITFOX-r833i3FR-33" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#6d8764;strokeColor=#3A5431;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.policy;" vertex="1" parent="lEBB3PITFOX-r833i3FR-31">
           <mxGeometry y="7.75" width="52.97" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="lEBB3PITFOX-r833i3FR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#006EAF;startArrow=classicThin;startFill=1;strokeColor=#60A917;" edge="1" parent="1" source="lEBB3PITFOX-r833i3FR-34" target="lEBB3PITFOX-r833i3FR-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lEBB3PITFOX-r833i3FR-34" value="" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="510" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="lEBB3PITFOX-r833i3FR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=none;startArrow=classicThin;startFill=1;strokeColor=#60A917;noLabel=1;" edge="1" parent="1" source="lEBB3PITFOX-r833i3FR-35" target="lEBB3PITFOX-r833i3FR-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lEBB3PITFOX-r833i3FR-35" value="S3 Access Points" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.general_access_points;" vertex="1" parent="1">
-          <mxGeometry x="660" y="180.5" width="82.5" height="99" as="geometry" />
+          <mxGeometry x="650" y="165.25" width="107.92" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="lEBB3PITFOX-r833i3FR-37" value="" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
           <mxGeometry x="780" y="60" width="300" height="340" as="geometry" />
